@@ -90,6 +90,6 @@ test = {
     "02": test_02,
     "03": test_03,
     "04": test_04,
-}[sys.argv[1]]
+}["04"]
 
 test()
